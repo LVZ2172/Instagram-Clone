@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="14713885914119" >
+
+    <task
+        name="javac"
+        duration="133" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="45" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/leon/Downloads/Parse-Starter-Project-Android-1.13.0/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build timestamp="13200733467970" >
+        <artifact
+            location="/home/leon/Downloads/Parse-Starter-Project-Android-1.13.0/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="13795968258387" >
+        <artifact
+            location="/home/leon/Downloads/Parse-Starter-Project-Android-1.13.0/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="14713885914119" >
+        <artifact
+            location="/home/leon/Downloads/Parse-Starter-Project-Android-1.13.0/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
